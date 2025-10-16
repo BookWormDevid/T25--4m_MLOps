@@ -1,19 +1,17 @@
-name: my_project_env
+name: mlops
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
-  - python=3.11
+  - python=3.10
   - pip
-  - numpy
   - pandas
+  - numpy
   - scikit-learn
   - matplotlib
   - seaborn
   - jupyter
-  - notebook
-  - dvc
   - pip:
-      - opencv-python
-      - torch
-      - torchvision
+    - dvc
+    - dvc-gdrive
+    - mlflow
