@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Koraku/Documents/mlops-flight-delay/src/mlruns/459170874793597744/3c9101ca17ba4d36887a3a5a960036f5/artifacts
+end_time: 1761389977925
+entry_point_name: ''
+experiment_id: '459170874793597744'
+lifecycle_stage: active
+run_id: 3c9101ca17ba4d36887a3a5a960036f5
+run_name: model_evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761389977880
+status: 3
+tags: []
+user_id: Koraku

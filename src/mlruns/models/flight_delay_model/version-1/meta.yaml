@@ -1,0 +1,15 @@
+creation_timestamp: 1761390647946
+current_stage: Staging
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1761391552215
+model_id: m-9fafb5a2e95a4b5f82d41755289f209b
+name: flight_delay_model
+run_id: 5c44f2f9c6e34a4eada05f849dcfa251
+run_link: null
+source: models:/m-9fafb5a2e95a4b5f82d41755289f209b
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Koraku/Documents/mlops-flight-delay/src/mlruns/158995905786177354/models/m-9fafb5a2e95a4b5f82d41755289f209b/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Koraku/Documents/mlops-flight-delay/src/mlruns/158995905786177354/models/m-9fafb5a2e95a4b5f82d41755289f209b/artifacts
+creation_timestamp: 1761387840433
+experiment_id: '158995905786177354'
+last_updated_timestamp: 1761387845725
+model_id: m-9fafb5a2e95a4b5f82d41755289f209b
+model_type: null
+name: model
+source_run_id: 5c44f2f9c6e34a4eada05f849dcfa251
+status: 2
+status_message: null

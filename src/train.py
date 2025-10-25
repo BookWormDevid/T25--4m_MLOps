@@ -5,7 +5,7 @@ from sklearn.metrics import roc_auc_score
 import joblib
 from pathlib import Path
 
-PROCESSED_DATA = Path("data/processed/processed.csv")
+PROCESSED_DATA = Path(r"C:\Users\Koraku\Documents\mlops-flight-delay\data\processed\processed.csv")
 MODEL_PATH = Path("models/model.joblib")
 
 def train():

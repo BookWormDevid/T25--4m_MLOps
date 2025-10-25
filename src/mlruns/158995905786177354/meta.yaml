@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Koraku/Documents/mlops-flight-delay/src/mlruns/158995905786177354
+creation_time: 1761387840037
+experiment_id: '158995905786177354'
+last_update_time: 1761387840037
+lifecycle_stage: active
+name: flight_delay
