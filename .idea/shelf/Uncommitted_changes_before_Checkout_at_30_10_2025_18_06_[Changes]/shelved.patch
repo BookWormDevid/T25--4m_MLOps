@@ -1,0 +1,112 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f4c1bbab-e613-438d-aea8-b75df6536a8c\" name=\"Changes\" comment=\"project scaffold\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"32rVTccdJuOwnyA7N6iTQrHGjlp\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"team-6\",\r\n    \"last_opened_file_path\": \"C:/Users/Kotda/PycharmProjects/T25--4m_MLOps.tree.team-6\",\r\n    \"settings.editor.selected.configurable\": \"vcs.Git\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File\": [\r\n      \"GitIgnore\",\r\n      \"HgIgnore\"\r\n    ]\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Kotda\\PycharmProjects\\DSTU_MLOPS_7C\\Main\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"f4c1bbab-e613-438d-aea8-b75df6536a8c\" name=\"Changes\" comment=\"\" />\r\n      <created>1758178686670</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1758178686670</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"project scaffold\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1758179804092</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1758179804092</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"project scaffold\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1760623584021</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1760623584021</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"project scaffold\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1760623991949</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1760623991949</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"project scaffold\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"project scaffold\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,14 +4,18 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="f4c1bbab-e613-438d-aea8-b75df6536a8c" name="Changes" comment="project scaffold" />
++    <list default="true" id="f4c1bbab-e613-438d-aea8-b75df6536a8c" name="Changes" comment="Merge branch 'team-6' of C:\Users\Kotda\PycharmProjects\T25--4m_MLOps.tree.team-6 with conflicts.">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="Git.Settings">
++    <option name="PUSH_AUTO_UPDATE" value="true" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -25,21 +29,26 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "team-6",
+-    "last_opened_file_path": "C:/Users/Kotda/PycharmProjects/T25--4m_MLOps.tree.team-6",
+-    "settings.editor.selected.configurable": "vcs.Git"
+-  },
+-  "keyToStringList": {
+-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+-      "GitIgnore",
+-      "HgIgnore"
+-    ]
+-  }
+-}]]></component>
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;team-6&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kotda/PycharmProjects/T25--4m_MLOps.tree.team-6&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
++  },
++  &quot;keyToStringList&quot;: {
++    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
++      &quot;GitIgnore&quot;,
++      &quot;HgIgnore&quot;
++    ]
++  }
++}</component>
++  <component name="Push.Settings">
++    <force-push-targets>
++      <force-push-target remote-path="origin" branch="team-6" />
++    </force-push-targets>
++  </component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\Kotda\PycharmProjects\DSTU_MLOPS_7C\Main" />
+@@ -85,11 +94,36 @@
+       <option name="project" value="LOCAL" />
+       <updated>1760623991949</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Merge branch 'team-6' of C:\Users\Kotda\PycharmProjects\T25--4m_MLOps.tree.team-6 with conflicts.">
++      <option name="closed" value="true" />
++      <created>1761836163359</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1761836163359</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Merge branch 'team-6' of C:\Users\Kotda\PycharmProjects\T25--4m_MLOps.tree.team-6 with conflicts.">
++      <option name="closed" value="true" />
++      <created>1761836169112</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1761836169112</updated>
++    </task>
++    <task id="LOCAL-00006" summary="Merge branch 'team-6' of C:\Users\Kotda\PycharmProjects\T25--4m_MLOps.tree.team-6 with conflicts.">
++      <option name="closed" value="true" />
++      <created>1761836303241</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1761836303241</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="project scaffold" />
+-    <option name="LAST_COMMIT_MESSAGE" value="project scaffold" />
++    <MESSAGE value="Merge branch 'team-6' of C:\Users\Kotda\PycharmProjects\T25--4m_MLOps.tree.team-6 with conflicts." />
++    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'team-6' of C:\Users\Kotda\PycharmProjects\T25--4m_MLOps.tree.team-6 with conflicts." />
+   </component>
+ </project>
+\ No newline at end of file
