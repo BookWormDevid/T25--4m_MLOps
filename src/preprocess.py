@@ -1,8 +1,8 @@
 import pandas as pd
 from pathlib import Path
 
-RAW_DATA = Path("C:/Users/Koraku/Documents/mlops-flight-delay/data/raw/flights_sample.csv")
-PROCESSED_DATA = Path("C:/Users/Koraku/Documents/mlops-flight-delay/data/processed/processed.csv")
+RAW_DATA = Path("data/raw/flights_sample.csv")
+PROCESSED_DATA = Path("data/processed/processed.csv")
 
 
 def preprocess():
