@@ -4,7 +4,7 @@ from mlflow.tracking import MlflowClient
 
 def set_model_stage(version, stage):
     # Указываем правильный путь к локальному хранилищу
-    mlflow.set_tracking_uri("file:///C:/Users/Koraku/Documents/mlops-flight-delay/src/mlruns")
+    mlflow.set_tracking_uri("mlruns")
 
     client = MlflowClient()
     model_name = "flight_delay_model"
