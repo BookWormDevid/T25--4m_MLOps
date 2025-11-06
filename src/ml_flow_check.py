@@ -8,7 +8,7 @@ import mlflow
 from mlflow.models import infer_signature
 
 # Пути к данным
-PROCESSED_DATA = Path(r"C:\Users\Koraku\Documents\mlops-flight-delay\data\processed\processed.csv")
+PROCESSED_DATA = Path("data\processed\processed.csv")
 MODEL_PATH = Path("models/model.joblib")
 
 
