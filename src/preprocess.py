@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 
 RAW_DATA = Path("data/raw/flights_sample.csv")
-PROCESSED_DATA = Path("/data/processed/processed.csv")
+PROCESSED_DATA = Path("data/processed/processed.csv")
 
 
 def preprocess():

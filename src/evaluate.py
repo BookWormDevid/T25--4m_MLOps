@@ -10,7 +10,7 @@ import mlflow
 
 # Пути
 MODEL_PATH = Path("models/model.joblib")
-PROCESSED_DATA = Path(r"C:\Users\Koraku\Documents\mlops-flight-delay\data\processed\processed.csv")
+PROCESSED_DATA = Path("data\processed\processed.csv")
 REPORT_PATH = Path("reports/eval.json")
 
 
